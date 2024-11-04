@@ -1,0 +1,1 @@
+Planto is a helpful app designed for plant lovers. It makes it easy for you to keep track of all your plants, including how much sunlight and water each one needs, as well as which room they're in. Planto can help you take better care of your green friends!
